@@ -1,10 +1,19 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Annelise Huang"
+title : "About me"
 # subtitle: |
 #   Annelise Huang  
 content : |
-  Make yourself better1
+  Do not live ordinary into mediocrity, make myself be better！
+
+  Hi! I am a student majoring in Business Administration from Macao University of Science and Technology. Feel free to get to know me on my page!
+
+  Name: Annelise Huang(黄蕾)
+  Address: China Fujian
+  Tel: +853 58595063
+  Email: huanglei202207@126.com
+  
+  Download my CV at the menu bar!
 button:
   label : "Start"
   link : "#first"
