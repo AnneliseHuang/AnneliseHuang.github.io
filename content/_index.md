@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hugo Academic Theme
+      title: AnneliseHuang CV
       image:
         filename: hero-academic.png
       cta:
@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: CEO
-          company: GenCoin
+          company: AnneliseHuang
           company_url: ''
           company_logo: org-gc
           location: California

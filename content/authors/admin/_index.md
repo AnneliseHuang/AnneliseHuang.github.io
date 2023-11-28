@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: AnneliseHuang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+#first_name: Shiung Wu
+#last_name: Chien
 
 # Status emoji
 status:
@@ -120,7 +120,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Annelise Huangis a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
 
-这是一个测试发布
+
