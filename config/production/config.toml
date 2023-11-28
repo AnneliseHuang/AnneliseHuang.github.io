@@ -1,0 +1,45 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Annelise Huang CV"
+copyright = "{year}"
+
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+relativeURLs = "true"
+#canonifyURLs = "true"
+
+# Local
+baseURL = "/"
+publishDir = "public"
+
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "G-XXXXXXXXXX"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  logo = "images/banner.jpg"
+  favicon = true
+
+[Params.social]
+  github = "https://github.com/AnneliseHuang/"
+  twitter = "https://twitter.com/AnneliseHuang"
+  email = "huanglei202207@126.com"
+
+
+[Params.asset]
+  fontawesome_css = ["css/fontawesome-all.min.css"]
+  fontawesome_js = ["js/fontawesome-all.min.js"]
