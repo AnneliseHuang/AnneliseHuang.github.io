@@ -1,6 +1,6 @@
-baseurl = "https://annelisehuang.github.io/#contact"
+baseurl = "https://annelisehuang.github.io/"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "Annelise Huang CV"
 theme = "blist"
 
 DefaultContentLanguage = "en"
