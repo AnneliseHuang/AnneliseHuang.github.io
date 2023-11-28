@@ -1,8 +1,8 @@
 ####################### Banner #########################
 style: "style1 orient-right content-align-right image-position-left fullscreen onload-image-fade-in onload-content-fade-left"
 title : "Annelise Huang"
-subtitle: |
-  Annelise Huang  
+# subtitle: |
+#   Annelise Huang  
 content : |
   Make yourself better
 button:
