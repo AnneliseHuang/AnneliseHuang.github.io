@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Education"
+# subtitle: |
+#   Annelise Huang
+content : |
+  Business School, Macao University of Science and Technology (Sep. 2022 - Jun. 2026)
+# button:
+#   label : "Start"
+#   link : "#first"
+# image : "images/banner.jpg"
+
