@@ -1,0 +1,33 @@
+title : "Showreel"
+# content: |
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "工作狂.docx"
+    # content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style2 major fa-gem"
+
+  # feature item loop
+  - name : "企业法律课题报告.pptx"
+    # content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-save"
+
+  # feature item loop
+  - name : "市场营销课题报告.pptx"
+    # content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-chart-bar"
+  - name : "中国银行课题报告.pptx"
+    # content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style2 major fa-gem"
+
+  # feature item loop
+  - name : "D2-Burned flag and free expression---case Texas v. Johnson (1989)之企业法律.docx"
+    # content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-save"
+
+  # feature item loop
+  - name : "movie期末报告.docx"
+    # content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-chart-bar"
+
+
