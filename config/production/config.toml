@@ -1,0 +1,47 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "HAnnelise Huang CV"
+copyright = "{year}"
+
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+relativeURLs = "true"
+#canonifyURLs = "true"
+
+# Local
+baseURL = "https://AnneliseHuang.github.io"
+publishDir = "public"
+
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "G-XXXXXXXXXX"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "Do not live ordinary into mediocrity, make myself be better！"
+  logo = "images/banner.jpg"
+  favicon = true
+
+[Params.social]
+  github = "https://github.com/AnneliseHuang"
+#  twitter = "https://twitter.com/caressofsteel_"
+  email = "huanglei202207@126.com"
+ # instagram = "https://instagram.com"
+ # linkedin = "https://linkedin.com"
+#  telegram = "https://telegram.org"
+
+[Params.asset]
+  fontawesome_css = ["css/fontawesome-all.min.css"]
+  fontawesome_js = ["js/fontawesome-all.min.js"]
