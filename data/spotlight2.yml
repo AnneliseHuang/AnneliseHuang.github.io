@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Spotlight"
+title : "Technology (September 2023 - present)"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight02.jpg"
+  Led the publicity department to organize various activities, was responsible for recruiting and selecting new students, organized and planned universal-level publicity activities, formulated team work plans and arranged work tasks; And the successful release of business school publicity articles, little Red book within a week reached 10,000 page
+# button:
+#   label: "Learn More"
+#   link: "#"
+image: "images/3.png"

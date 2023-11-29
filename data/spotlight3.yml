@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "Macao University of Science and Technology Football Club Vice Minister Publicity Department (January 2023 - January 2024)"
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight03.jpg"
+  Lead the publicity Department to report various activities, well responsible for recruiting new work, assist the minister to complete the task assignment; Coordinated the work of the Public Relations Department, successfully held the 10th "Super Master Cup" football match, and attracted nearly ten thousand sponsorship for the match within a
+# button:
+#   label: "Learn More"
+#   link: "#"
+image: "images/4.png"
