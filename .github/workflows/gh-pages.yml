@@ -20,9 +20,9 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
-        run : npm install && npm i -g postcss-cli
+        # run : 
       - name: Build
-        run: hugo --minify  --baseURL https://AnneliseHuang.github.io
+        run: npm install && npm i -g postcss-cli && hugo --minify  --baseURL https://AnneliseHuang.github.io
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.4.2
         with:
