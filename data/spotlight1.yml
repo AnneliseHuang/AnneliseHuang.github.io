@@ -6,7 +6,7 @@ content: |
   Publicity Department Officer, Business School Student Union, Macao University of Science and Technology （September 2022 - June 2023）
   Main work contents: Coordinate the work of various departments, and design posters according to the work requirements; Production of college brand lecture posters and other content, has completed a few activities design.
   Deputy Director of Publicity Department, School of Business, Macau University of Science and
-button:
-  label: "Learn More"
-  link: "#"
+# button:
+#   label: "Learn More"
+#   link: "#"
 image: "images/1.png"

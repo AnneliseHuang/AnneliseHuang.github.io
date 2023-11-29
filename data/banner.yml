@@ -2,7 +2,7 @@
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "About me"
 # subtitle: |
-#   Annelise Huang  
+#   Annelise Huang
 content : |
   Do not live ordinary into mediocrity, make myself be better！
 
@@ -14,12 +14,12 @@ content : |
   Address: China Fujian  <br/>
 
   Tel: +853 58595063  <br/>
- 
+
   Email: huanglei202207@126.com  <br/>
-   
+
   Download my CV at the menu bar!
-button:
-  label : "Start"
-  link : "#first"
+# button:
+#   label : "Start"
+#   link : "#first"
 image : "images/banner.jpg"
 
